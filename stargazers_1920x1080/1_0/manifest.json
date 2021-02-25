@@ -1,0 +1,32 @@
+{
+   "description": "Stargazers: By Olivia Fields",
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEApMDPAWrkxinH+debbARQE6dqZcRor5dMFA5zBF1j9ndLERMKB5dyQPDQdH35cs557H8y9ANZSeGocyqpK4CsDchyBUY1P2+Sn9iFMAwMzY0upofAVZeiCzOl90yzS/NQ8E4nKA6SR0ao8I3jBvmDX7wciC7N6SkM5+T9oa9R4ZKeahcSz/4Vp+jnheo1D/+s1qQhXzg2zF3O1mHFSKeeCNHsMbIERSEB9SGTBOsOfAQaYbYl5hqwUE/R4irVBC/8xoHAlLuO7+p0YK7tDhw45DGnD5oOlIBhXFeVsPP+bEzrVHJyBfZhVAPLH6gCVxzRgjwPlFxolV9rmZHNG7kXQwIDAQAB",
+   "manifest_version": 2,
+   "name": "Stargazers",
+   "theme": {
+      "colors": {
+         "bookmark_text": [ 255, 255, 255 ],
+         "frame": [ 61, 45, 108 ],
+         "ntp_background": [ 116, 80, 214 ],
+         "tab_background_text": [ 255, 255, 255 ],
+         "tab_text": [ 255, 255, 255 ],
+         "toolbar": [ 94, 69, 165 ]
+      },
+      "images": {
+         "theme_ntp_background": "stargazers_1920x1080.png"
+      },
+      "properties": {
+         "ntp_background_alignment": "bottom",
+         "ntp_background_repeat": "no-repeat",
+         "ntp_logo_alternate": 1
+      },
+      "tints": {
+         "buttons": [ -1, 0.57, 0.9605 ],
+         "frame_inactive": [ -1, -1, -1 ],
+         "frame_incognito": [ -1, -1, -1 ],
+         "frame_incognito_inactive": [ -1, -1, -1 ]
+      }
+   },
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1"
+}

@@ -1,0 +1,31 @@
+{
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAvGr20HXT7yYZ+OCk1lxxoT4kBD6es66q+E5agea65ttWlUNmyCDPg7qpN1DvXeePf1KKkhBA5S6d1H0AV7Q6qg+Na8n2OEUP9inRRSHse+N65Xl3TEPrm55s+7zy0vAZvDXPFiM+dLkmnupL/BXJpItIfJu0BL1iJkN2z9FH67gz53QVXcAy6LZCjLKYMEIsrZ6JCLQTtrkBoGGEn/oa9kr+Z3xGXzBDsRLMSQ48eR3vfMNMG+YIPdWQrD/mAMAPseYt/M5tNSh62VZ0xgN1ORmSJuEDXItpxVvNh1FLGj+m6X0id5zqKD7wFtwTyVbgLCFXPluktgpbowcsp9zSTQIDAQAB",
+   "manifest_version": 2,
+   "name": "made_of",
+   "theme": {
+      "colors": {
+         "button_background": [ 0, 0, 0 ],
+         "frame": [ 71, 105, 91 ],
+         "ntp_link": [ 36, 70, 0 ],
+         "ntp_section": [ 207, 221, 192 ],
+         "ntp_text": [ 230, 255, 204 ],
+         "toolbar": [ 207, 221, 192 ]
+      },
+      "icons": {
+         "128": "icon128.png",
+         "16": "icon16.png",
+         "48": "icon48.png"
+      },
+      "images": {
+         "theme_frame_overlay": "images/tab.png",
+         "theme_ntp_attribution": "images/attribution.png",
+         "theme_ntp_background": "images/background.png",
+         "theme_toolbar": "images/toolbar.png"
+      },
+      "tints": {
+         "buttons": [ 0.33, 0.5, 0.47 ]
+      }
+   },
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.0"
+}

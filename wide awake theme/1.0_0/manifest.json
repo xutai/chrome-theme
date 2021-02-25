@@ -1,0 +1,31 @@
+{
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCyieq2zI7y4E3QqupA5DK6CNtDDSqAn0nOR/EfQu6yg+s7tM7fdrht/e7BQX7RLW2ky4+8ae8gOFts9iBfCZP4shGw7lIsiV0BvJrzntUoubu3CFRnHufCeNl1bXKEWwxpjZwCBlCioKaaFTnJ5GOa5Eg0FieRrI37DeoOeqZHSwIDAQAB",
+   "manifest_version": 2,
+   "name": "wide awake theme",
+   "theme": {
+      "colors": {
+         "button_background": [ 0, 0, 0 ],
+         "frame": [ 71, 105, 91 ],
+         "ntp_link": [ 36, 70, 0 ],
+         "ntp_section": [ 207, 221, 192 ],
+         "ntp_text": [ 230, 255, 204 ],
+         "toolbar": [ 207, 221, 192 ]
+      },
+      "icons": {
+         "128": "icon128.png",
+         "16": "icon16.png",
+         "48": "icon48.png"
+      },
+      "images": {
+         "theme_frame_overlay": "images/tab.png",
+         "theme_ntp_attribution": "images/attribution.png",
+         "theme_ntp_background": "images/background.png",
+         "theme_toolbar": "images/toolbar.png"
+      },
+      "tints": {
+         "buttons": [ 0.33, 0.5, 0.47 ]
+      }
+   },
+   "update_url": "http://clients2.google.com/service/update2/crx",
+   "version": "1.0"
+}

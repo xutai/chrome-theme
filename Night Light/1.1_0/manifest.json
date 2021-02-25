@@ -1,0 +1,33 @@
+{
+   "description": "Night Light: By Olivia Fields",
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAoNqV1tBvh690zhyqOdo49pRaB/42xbLFkNFYDw8w377zE/IDffoNERXuTRiqnImePxtSvNFp9rrnjieqqKnEZ36DXYYYDcs/8wtTN5RVvLyxsL+Bc0RBfS8+u9ipYe122K69D1hRYTHrzRgPIWqlccGcprnkjKVo1g9lO2VfXUEyv5mh0FUFvkFtX4GDmu5HCj8r8S1JCVwgIV2b7vCQshx9r+u6GLdpu3bdwTfU1agW6gNnUj4d1hUBlShiLD/BHnx+6xlsH9sMItx2e9szhXIKlJPa95OfsqiQrhxvhnFWOaF/JKzzoi1ZADiE+VXwDvA6rNmAonlb9lBC9YUhuwIDAQAB",
+   "manifest_version": 2,
+   "name": "Night Light",
+   "theme": {
+      "colors": {
+         "bookmark_text": [ 255, 255, 255 ],
+         "frame": [ 69, 35, 106 ],
+         "ntp_background": [ 122, 61, 180 ],
+         "ntp_text": [ 255, 255, 255 ],
+         "tab_background_text": [ 255, 255, 255 ],
+         "tab_text": [ 255, 255, 255 ],
+         "toolbar": [ 109, 55, 168 ]
+      },
+      "images": {
+         "theme_ntp_background": "night_light_1920x1080.png"
+      },
+      "properties": {
+         "ntp_background_alignment": "bottom",
+         "ntp_background_repeat": "no-repeat",
+         "ntp_logo_alternate": 1
+      },
+      "tints": {
+         "buttons": [ -1, 0.57, 0.9605 ],
+         "frame_inactive": [ -1, -1, -1 ],
+         "frame_incognito": [ -1, -1, -1 ],
+         "frame_incognito_inactive": [ -1, -1, -1 ]
+      }
+   },
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.1"
+}

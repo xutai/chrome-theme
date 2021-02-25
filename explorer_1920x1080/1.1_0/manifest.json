@@ -1,0 +1,32 @@
+{
+   "description": "The Explorer: By Janelle Cummins",
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAgCxifGutZPY1/UaIp5xYjGZa1zl3BMrDjCN1CGvrCUiB9cbU49AVa8Pel4jnvLUgT1JTkYxyerBFnDxdKN04VeYVE5YYCXm0tqv2hJuMI52g+vjVwioHC0jpS0YOUO14rGi8TxBL+ch0ahzJbIUN5pg/gP6lvTpTLJptDdUR3aPc5h3ibllJwcPpAwQ99s4707ftwlVhZ0LLcDUqlknzZL4LCHPqd4dt2QkTZxofa+yVksWTVJ5um7XkCB/AZx6tKAo4gjL3SApkd5CHYf3CFMuX45PBBPx7Nc5z9yyiPT0BD0TNJb+AW31nqd++sJRApxg3kYFsA5Opz1/UTSsOQQIDAQAB",
+   "manifest_version": 2,
+   "name": "The Explorer",
+   "theme": {
+      "colors": {
+         "bookmark_text": [ 0, 0, 0 ],
+         "frame": [ 234, 191, 133 ],
+         "ntp_background": [ 255, 221, 174 ],
+         "tab_background_text": [ 0, 0, 0 ],
+         "tab_text": [ 0, 0, 0 ],
+         "toolbar": [ 255, 222, 176 ]
+      },
+      "images": {
+         "theme_ntp_background": "explorer_1920x1080.png"
+      },
+      "properties": {
+         "ntp_background_alignment": "bottom",
+         "ntp_background_repeat": "repeat-x",
+         "ntp_logo_alternate": 1
+      },
+      "tints": {
+         "buttons": [ -1, -1, -1 ],
+         "frame_inactive": [ -1, -1, -1 ],
+         "frame_incognito": [ -1, -1, -1 ],
+         "frame_incognito_inactive": [ -1, -1, -1 ]
+      }
+   },
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.1"
+}

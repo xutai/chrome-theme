@@ -1,0 +1,32 @@
+{
+   "description": "Bubbly: By Olivia Fields",
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAt6pe4xBttEaTCCO7mY16JC0uME8+c2shc2/bcdD2M4TPvzNExwaroV/VyH3B+g6Kd18+xxDBTzFqEYQzREmgF0O0tek0mKtQFLVxJ86yXJymlKIpU5eJ8+no5FPsXNqZdfvEeAr5hZhDWcxj+czqC8PCb2p6t2COtt49IjQUzw3neAqVmugnDJTG6GW7yo9l4a+QphBp8E00uV1Lr824fISWAdymAzIaKTpLfI/dHKwMHNVGQFfC8Xf88yQqEUJgLbK72m6u6lcCKJdOzJ5lT9q0N0bbcvsySwWjI6HKRKzTTsrVMImP8MabSk0aS2FMxUIzGuTP7tBgljBkdtIxYQIDAQAB",
+   "manifest_version": 2,
+   "name": "Bubbly",
+   "theme": {
+      "colors": {
+         "bookmark_text": [ 0, 0, 0 ],
+         "frame": [ 155, 172, 241 ],
+         "ntp_background": [ 155, 172, 241 ],
+         "tab_background_text": [ 0, 0, 0 ],
+         "tab_text": [ 0, 0, 0 ],
+         "toolbar": [ 218, 225, 249 ]
+      },
+      "images": {
+         "theme_ntp_background": "bubbly_1920x1080.png"
+      },
+      "properties": {
+         "ntp_background_alignment": "bottom",
+         "ntp_background_repeat": "no-repeat",
+         "ntp_logo_alternate": 1
+      },
+      "tints": {
+         "buttons": [ -1, -1, -1 ],
+         "frame_inactive": [ -1, -1, -1 ],
+         "frame_incognito": [ -1, -1, -1 ],
+         "frame_incognito_inactive": [ -1, -1, -1 ]
+      }
+   },
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.1"
+}

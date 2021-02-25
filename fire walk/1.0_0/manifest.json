@@ -1,0 +1,31 @@
+{
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAqE/d8hpaVEeb+RxZYWqoWWGBKjHYmk/GbUpYvXIsLMUXhNWtBXt7sGRvdRg+SNgjzPR8qb8bkj4ZGKrngZzT7PBtEnHAeWsPPS6Ppww2Kl7Y5se0MCsgG8o6Ve94U+lSZrY3wA79OMQ9TbJk9du8S5BS/BfXDYyckHXS/41AknxTFshF2KStOMSIafznI0Dm9MUlYQl/SHXqkiDgtX7sfuV03Lp4whRGz3KVtonSykOeRoiJNnm8gOcpvo9+YkFxupa0NMPo+0mLOFOt1BatfzXJAisjq4zVXwxXvQws4mFgSMt9T1Ulil20HHZV79izxrxVSHt+t3xiPICo+lZSOQIDAQAB",
+   "manifest_version": 2,
+   "name": "fire walk",
+   "theme": {
+      "colors": {
+         "button_background": [ 0, 0, 0 ],
+         "frame": [ 71, 105, 91 ],
+         "ntp_link": [ 36, 70, 0 ],
+         "ntp_section": [ 207, 221, 192 ],
+         "ntp_text": [ 230, 255, 204 ],
+         "toolbar": [ 207, 221, 192 ]
+      },
+      "icons": {
+         "128": "icon128.png",
+         "16": "icon16.png",
+         "48": "icon48.png"
+      },
+      "images": {
+         "theme_frame_overlay": "images/tab.png",
+         "theme_ntp_attribution": "images/attribution.png",
+         "theme_ntp_background": "images/background.png",
+         "theme_toolbar": "images/toolbar.png"
+      },
+      "tints": {
+         "buttons": [ 0.33, 0.5, 0.47 ]
+      }
+   },
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.0"
+}
